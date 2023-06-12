@@ -109,7 +109,7 @@ test('it can default all arguments, optionally', () => {
 http://ws.kcd.im/?ws=ES6+and+Beyond&e=Parameters&em=
 */
 test('I submitted my elaboration and feedback', () => {
-  const submitted = true // change this when you've submitted!
+  const submitted = false // change this when you've submitted!
   expect(true).toBe(submitted)
 })
 ////////////////////////////////
